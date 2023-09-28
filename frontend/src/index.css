@@ -1,0 +1,9 @@
+.a{
+  text-decoration: none;
+}
+
+input.form-control:focus,
+input.form-control:hover, .btn  {
+    box-shadow: none !important;
+    /* border-color: #ced4da; Optionally reset the border color */
+}
